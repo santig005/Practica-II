@@ -3,7 +3,7 @@
 ### Integrante: Santiago Gómez Alzate
 
 ## Descripción
-#### La practica consiste en que dado un archivo con la extencion .csv llamado "empleados.csv", este archivo tiene en cada linea una estructura que contiene los datos de un empleado, los datos estan dispuestos de la siguiente manera: " ID; PrimerNombre *(String)* ; Apellido *(String)*; Salario *(Double)*; Departamento *(String)* "  Estos datos se debera cargar en una lista utilizando Stream, una lamba de bloque y la operación .map de manera que se carguen los datos de cada linea en los atributos de un objeto Empleado
+#### La practica consiste en que dado un archivo con la extencion .csv llamado "empleado.csv", este archivo tiene en cada linea una estructura que contiene los datos de un empleado, los datos estan dispuestos de la siguiente manera: " ID; PrimerNombre *(String)* ; Apellido *(String)*; Salario *(Double)*; Departamento *(String)* "  Estos datos se debera cargar en una lista utilizando Stream, una lamba de bloque y la operación .map de manera que se carguen los datos de cada linea en los atributos de un objeto Empleado
 
 ## Funcionalidades
 #### Al ejecutarse el programa se realizara el cargue desde el archivo y luego se invocarán métodos para mostrar por pantalla los siguientes datos:
